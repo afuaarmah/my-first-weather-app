@@ -75,7 +75,9 @@ main{
 }
 .weather-forecast{
     text-align: center;
-    margin-right: 20px;
+    margin-top: 20px;
+    
+    
 }
 .forecast-date{
     font-size: 14px;
